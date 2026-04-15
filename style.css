@@ -1,0 +1,21 @@
+nav {
+    display: flex;
+    background-color: wheat;
+    text-decoration: none;
+    color: black;
+
+}
+
+.logo-site {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 50px;
+    width: 10vw;
+
+}
+ nav, ul{
+    display: flex;
+    text-decoration: none;
+    flex-direction: row;
+ }
